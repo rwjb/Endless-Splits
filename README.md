@@ -17,4 +17,4 @@ A precompiled executable is included.
 
 You may be required to download the SDL2.dll to the same folder to allow it to run, which is included in the directory.
 
-(Alternatively, you can [download it here](https://www.libsdl.org/download-2.0.php), for a more trustworthy source!)
+(Alternatively, you can [download the DLL here](https://www.libsdl.org/download-2.0.php), for a more trustworthy source!)
