@@ -10,4 +10,6 @@ Besides just looking cool, there are some controls to manipulate the procedural 
 * The CTRL key toggles forcing new splits to intersect the center or not.
 * The C key counts the number of lines currently held in memory.
 
-Endless Splits requires OpenGL and SDL2 to compile and run. A zip file with everything you should need to run it is included.
+Endless Splits requires OpenGL and SDL2 to compile and run.
+
+A precompiled executable is included. You may require to download the SDL2.dll to the same folder to allow it to run, which is included here.
